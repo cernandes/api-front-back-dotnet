@@ -1,6 +1,6 @@
-# dotnet-mongo
+# API .NET integrada ao MongoDB
 
-Exemplo de aplicação .net core com mongodb.
+Projeto de uma API em .NET Core integrada a um cluster MongoDB, em tempo real no service cloud com Mongo Atlas. Abordado os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB. 
 
 Para teste:
 
